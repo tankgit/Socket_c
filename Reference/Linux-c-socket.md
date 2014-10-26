@@ -1,5 +1,5 @@
 #socket
-感谢原文作者(sdlcgxcqx的专栏)[http://blog.csdn.net/sdlcgxcqx/article/details/386010]
+感谢原文作者[sdlcgxcqx的专栏](http://blog.csdn.net/sdlcgxcqx/article/details/386010)
 
 
 ##socket()
