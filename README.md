@@ -6,7 +6,7 @@ Socket C/S, Linux C
 
 ##Documents details
 
-[c-s without authentication](./"c-s without authentication") : contains 2 source file of c/s, there's no login model in the program.
+[c-s without authentication](./c-s without authentication) : contains 2 source file of c/s, there's no login model in the program.
 
 [client.c](./client.c) : the client of the chatroom.
 
