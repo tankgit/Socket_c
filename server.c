@@ -1,3 +1,10 @@
+/*service.c
+ * based on socket C
+ * authored by Tank, 2014-11-23
+ * Tank <derektanko@gmail.com>
+ * It's just my homework~
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <x86_64-linux-gnu/sys/types.h>
