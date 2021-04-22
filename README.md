@@ -1,12 +1,12 @@
-#Socket Client/Server chat-room Sample
+# Socket Client/Server chat-room Sample
 
 Socket C/S, Linux C
 
 (myStudy of Network attack and defense)
 
-##Documents details
+## Documents details
 
-[c-s without authentication](./c-s without authentication) : contains 2 source file of c/s, there's no login model in the program.
+[c-s without authentication](./"c-s without authentication") : contains 2 source file of c/s, there's no login model in the program.
 
 [client.c](./client.c) : the client of the chatroom.
 
@@ -14,7 +14,7 @@ Socket C/S, Linux C
 
 [users.db](./users.db) : the database of users.
 
-##Licence
+## Licence
 
 MIT
 
